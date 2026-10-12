@@ -1,263 +1,191 @@
 
-<!-- ===================================================== -->
-<!--                 SAURABH KUMAR                          -->
-<!--             GITHUB PROFILE README                     -->
-<!-- ===================================================== -->
-
+<!-- PROFILE BANNER -->
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050A30,50:003B73,100:00D4FF&height=200&section=header&text=SAURABH%20KUMAR&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=JAVA%20FULL%20STACK%20DEVELOPER&descSize=18&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00C9FF&height=200&section=header&text=Saurabh%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=58" width="100%" />
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Saurabh+Kumar+%F0%9F%91%8B;Java+Full+Stack+Developer+%E2%98%95;Building+Modern+Web+Applications+%F0%9F%9A%80;DSA+%7C+Spring+Boot+%7C+React+%7C+MySQL;Always+Learning.+Always+Building." alt="Typing SVG"/>
-</a>
-
-<br/>
-
-<!-- Social Badges -->
-<a href="https://github.com/Saurabhkumar12012003">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://www.linkedin.com/in/saurabh-kumar-7b1a36409/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://leetcode.com/u/Saurabh9820/">
-<img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Saurabhkumar12012003&style=for-the-badge&color=00D4FF" alt="Profile Views"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+Developer;Full+Stack+Development+Enthusiast;Data+Structures+%26+Algorithms;Building+Practical+Software+Solutions" alt="Typing SVG" />
 
 </div>
 
 ---
 
-<!-- ABOUT ME -->
+## 👨‍💻 About Me
 
-## 👨‍💻 ABOUT ME
+Hello! I'm **Saurabh Kumar**, a **2026 Computer Science Engineering graduate from Galgotias University**, passionate about software development and building practical applications.
 
-```java
-public class SaurabhKumar {
+My primary focus is **Java Development and Full Stack Engineering**, with an interest in developing scalable backend services, REST APIs, and user-friendly web applications.
 
-    String name = "Saurabh Kumar";
-    String degree = "B.Tech Computer Science Engineering";
-    String role = "Java Full Stack Developer";
-
-    String[] languages = {
-        "Java", "Python", "C", "C++", "JavaScript"
-    };
-
-    String[] interests = {
-        "Software Development",
-        "Data Structures & Algorithms",
-        "Backend Engineering",
-        "Cloud Computing",
-        "Artificial Intelligence"
-    };
-
-    String currentFocus = "Spring Boot + React + DSA";
-
-    String mindset = "Learn | Build | Improve | Repeat";
-}
-```
-
-- 🎓 B.Tech Computer Science Engineering Graduate (2026).
-- ☕ Focused on Java Full Stack Development.
-- 💻 Building responsive and scalable applications.
-- 🧠 Practicing Data Structures and Algorithms.
-- 🌱 Exploring Spring Boot, React.js and AWS.
-- 🚀 Interested in solving real-world engineering problems.
+- 💻 Primary Language: **Java**
+- 🚀 Backend Development: **Spring Boot, REST APIs**
+- 🌐 Frontend Development: **React.js, JavaScript, HTML, CSS**
+- 🗄️ Database: **MySQL**
+- 🧠 Core Concepts: **DSA, OOP, DBMS**
+- ☁️ Exploring: **AWS, Cloud Computing & Generative AI**
+- 🎯 Career Goal: **Java Developer / Java Full Stack Developer**
+- 📚 Currently improving my problem-solving and software engineering skills.
 
 ---
 
-<!-- TECH STACK -->
+## 🛠️ Technical Skills
 
-## ⚡ TECH STACK & TOOLS
-
-### 💻 Programming Languages
-
+### Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript" />
 </p>
 
-### 🎨 Frontend Development
-
+### Backend Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 </p>
 
-### ⚙️ Backend Development
-
+### Frontend Development
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" />
 </p>
 
-### 🗄️ Database & Cloud
-
+### Database & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,firebase,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,aws" />
 </p>
 
-### 🛠️ Developer Tools
-
+### Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,maven&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-<!-- PROJECTS -->
+## 🚀 Featured Projects
 
-## 🚀 FEATURED PROJECTS
+### 1. 🚌 Real-Time Public Transport Tracking System
 
-<table>
-<tr>
-<td width="50%">
+**Java | Spring Boot | REST APIs | MySQL | JavaScript**
 
-### 🏠 Real Estate Web Application
+Developed a backend-focused public transportation management application designed to organize vehicle tracking, route information, and transit data.
 
-A responsive real estate platform with a modern user interface.
+- Developed backend services using Java and Spring Boot.
+- Designed and implemented 5+ REST APIs.
+- Created relational MySQL tables for vehicles, routes, and tracking records.
+- Applied MVC architecture, OOP principles, and exception handling.
+- Structured the application using modular backend components.
 
-**Tech Stack:**
-- React.js
-- JavaScript
-- Vite
-- Tailwind CSS
-
-</td>
-<td width="50%">
-
-### 🔧 MaidMate
-
-An Android service-finder application connecting users with local service providers.
-
-**Tech Stack:**
-- Java
-- XML
-- Android SDK
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🚌 CityBus Live
-
-A real-time public transport tracking system with estimated arrival information.
-
-**Tech Stack:**
-- React.js
-- Node.js
-- Firebase
-- Google Maps API
-
-</td>
-<td width="50%">
-
-### 🤖 Intelligent Smart Study Buddy
-
-An AI/ML-based academic assistant using machine learning algorithms.
-
-**Tech Stack:**
-- Python
-- TF-IDF
-- SVM
-- Decision Tree
-- Naive Bayes
-
-</td>
-</tr>
-</table>
+**Key Learning:** Spring Boot, REST API Development, MySQL, MVC Architecture.
 
 ---
 
-<!-- GITHUB STATS -->
+### 2. 🏠 Real Estate Web Application
 
-## 📊 GITHUB ANALYTICS
+**React.js | JavaScript | Vite | Tailwind CSS**
+
+Developed a responsive real estate web application focused on presenting property information through a modern user interface.
+
+- Built reusable React components.
+- Used JavaScript to implement frontend functionality.
+- Designed responsive layouts using Tailwind CSS.
+- Used Vite for the development environment.
+
+**Key Learning:** React.js, Component-Based Development, Responsive UI.
+
+---
+
+### 3. 📱 MaidMate – Android Service Finder Application
+
+**Java | XML | Android SDK**
+
+Developed an Android-based service-finder application to help users discover local service providers.
+
+- Built application screens using Java and XML.
+- Worked with Android SDK components.
+- Focused on user-friendly navigation and application structure.
+
+**Key Learning:** Java, Android Development, UI Design.
+
+---
+
+### 4. 🤖 Intelligent Smart Study Buddy
+
+**Python | Machine Learning | TF-IDF | SVM**
+
+Developed an academic AI/ML project focused on intelligent study assistance and text-based processing.
+
+- Explored TF-IDF for text feature extraction.
+- Worked with SVM, Decision Tree, and Naive Bayes algorithms.
+- Applied machine learning concepts to academic use cases.
+
+**Key Learning:** Python, Machine Learning, NLP Fundamentals.
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saurabhkumar12012003&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Saurabhkumar12012003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhkumar12012003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhkumar12012003&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Saurabhkumar12012003&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Saurabhkumar12012003&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-<!-- LEETCODE -->
-
-## 🧠 LEETCODE PERFORMANCE
+## 🧩 LeetCode Progress
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Saurabh9820?theme=dark&font=Fira%20Code&ext=heatmap" width="85%" alt="LeetCode Stats"/>
-
-<br/>
-
-<a href="https://leetcode.com/u/Saurabh9820/">
-<img src="https://img.shields.io/badge/Visit%20My-LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+<img src="https://leetcard.jacoblin.cool/Saurabh9820?theme=dark&font=Fira%20Code&ext=heatmap" width="75%" />
 
 </div>
 
 ---
 
-<!-- CONTRIBUTION SNAKE -->
-
-## 🐍 CONTRIBUTION GRAPH
+## 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Saurabhkumar12012003/Saurabhkumar12012003/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Saurabhkumar12012003/Saurabhkumar12012003/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
 
 </div>
 
 ---
 
-<!-- CURRENT GOALS -->
+## 🎓 Education & Certifications
 
-## 🎯 CURRENT GOALS
-
-- [x] Learn Java and Object-Oriented Programming.
-- [x] Build frontend applications using React.
-- [ ] Master Spring Boot and REST APIs.
-- [ ] Improve Data Structures and Algorithms.
-- [ ] Build production-ready full-stack applications.
-- [ ] Strengthen Cloud and AWS knowledge.
+- 🎓 B.Tech – Computer Science Engineering, Galgotias University (2026)
+- ☁️ AICTE – Cloud Computing Virtual Internship
+- 🔐 Zscaler – Cybersecurity Fundamentals Associate
+- 📘 NPTEL – Compiler Design, IIT Kharagpur
+- 🤖 Google AI/ML Virtual Internship
+- 🏅 Microsoft AI Skills Fest 2026
 
 ---
 
-<!-- CONNECT -->
-
-## 🤝 LET'S CONNECT
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/saurabh-kumar-7b1a36409/">
-<img src="https://img.shields.io/badge/LinkedIn-Saurabh%20Kumar-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/Saurabhkumar12012003">
-<img src="https://img.shields.io/badge/GitHub-Saurabhkumar12012003-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://leetcode.com/u/Saurabh9820/">
-<img src="https://img.shields.io/badge/LeetCode-Saurabh9820-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
-<br/><br/>
+</div>
 
-### 💬 "Code. Create. Innovate. Repeat."
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:003B73,100:050A30&height=120&section=footer"/>
+<div align="center">
+
+### 💡 "Building skills today to engineer better solutions tomorrow."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:203A43,100:0F2027&height=100&section=footer" width="100%" />
 
 </div>
