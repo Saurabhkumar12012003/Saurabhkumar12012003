@@ -257,5 +257,12 @@ Academic AI/ML project for intelligent study assistance and text processing.
 ⭐ If you like my work, consider giving a star!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:1b1464,100:0b0f2a&height=120&section=footer" width="100%" />
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/Saurabhkumar12012003/Saurabhkumar12012003/output/github-snake-dark.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
+</div>
 
 </div>
