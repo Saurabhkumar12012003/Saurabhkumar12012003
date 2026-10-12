@@ -264,5 +264,10 @@ Academic AI/ML project for intelligent study assistance and text processing.
     alt="GitHub Contribution Snake"
   />
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Saurabhkumar12012003/Saurabhkumar12012003/output/github-snake-dark.svg"
+       width="100%"
+       alt="GitHub Contribution Snake"/>
+</div>
 
 </div>
