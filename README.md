@@ -3,13 +3,6 @@
 <!--                 SAURABH KUMAR PROFILE                 -->
 <!-- ===================================================== -->
 
-<div align="center">
-  <img
-    src="./assets/profile-banner.png"
-    width="100%"
-    alt="Saurabh Kumar Neon GitHub Profile Banner"
-  />
-</div>
 
 
 <div align="center">
