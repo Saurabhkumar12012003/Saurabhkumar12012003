@@ -4,6 +4,15 @@
 <!-- ===================================================== -->
 
 <div align="center">
+  <img
+    src="./assets/profile-banner.png"
+    width="100%"
+    alt="Saurabh Kumar Neon GitHub Profile Banner"
+  />
+</div>
+
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:14213D,100:00C9FF&height=220&section=header&text=Saurabh%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=JAVA%20DEVELOPER%20%7C%20FULL%20STACK%20DEVELOPER&descSize=18&descAlignY=58" width="100%"/>
 
