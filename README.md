@@ -1,10 +1,11 @@
 
 
+
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/Saurabhkumar12012003/Saurabhkumar12012003/main/assets/profile-banner.png"
+    src="https://raw.githubusercontent.com/Saurabhkumar12012003/Saurabhkumar12012003/main/assets/Saurabh%20Kumar%E2%80%99s%20Neon%20GitHub%20Dashboard.png"
     width="100%"
-    alt="Saurabh Kumar Neon GitHub Profile Banner"
+    alt="Saurabh Kumar Neon GitHub Dashboard"
   />
 </div>
 
