@@ -1,7 +1,8 @@
 
+
 <div align="center">
   <img
-    src="./assets/profile-banner.png"
+    src="https://raw.githubusercontent.com/Saurabhkumar12012003/Saurabhkumar12012003/main/assets/profile-banner.png"
     width="100%"
     alt="Saurabh Kumar Neon GitHub Profile Banner"
   />
